@@ -1,0 +1,8 @@
+{
+    "B_ENT": 3,
+    "I_ENT": 4,
+    "max_size": 100,
+    "pad": 1,
+    "batch_size": 20,
+    "out_len": 8
+}
